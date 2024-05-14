@@ -1,12 +1,12 @@
 import './Logo.css';
-import logos from '../../img/'
+// import logos from '../../img/'
 
 function Logo() {
   return (
     <>
-    <a href="index.html" class="logo">
+    {/* <a href="index.html" class="logo">
 					<img src={logos} alt=""/>
-				</a>
+				</a> */}
     </>
   );
 }
